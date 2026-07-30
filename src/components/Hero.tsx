@@ -34,7 +34,7 @@ export default function Hero() {
         </h1>
 
         <p className="text-xl sm:text-2xl text-slate-400 font-light mb-4 tracking-wide">
-          Network Engineer · Cloud Architect · Automation Enthusiast
+          Enterprise Network Engineer · Azure Network Engineer · Automation Enthusiast
         </p>
 
         <p className="text-slate-500 text-base max-w-2xl mx-auto mb-10 leading-relaxed">
