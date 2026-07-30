@@ -3,21 +3,21 @@ import { SectionHeader } from './SectionHeader';
 
 const education = [
   {
-    degree: 'B.E. Electronics and Communication Engineering',
-    institution: 'RMK College of Engineering and Technology',
-    location: 'Chennai, India',
-    period: '2021 – 2025',
-    score: 'CGPA: 8.18 / 10',
+    degree: 'B.Tech. Computer Science and Engineering',
+    institution: 'Sastra Deemed to be University',
+    location: 'Thanjavur, India',
+    period: '2020 – 2024',
+    score: 'CGPA: 7.2 / 10',
     scoreLabel: 'CGPA',
-    scoreValue: '8.18',
+    scoreValue: '7.2',
     scoreMax: '/ 10',
   },
 ];
 
 const highlights = [
-  { value: '8.18', label: 'CGPA' },
-  { value: '2025', label: 'Graduated' },
-  { value: 'ECE', label: 'Specialization' },
+  { value: '7.2', label: 'CGPA' },
+  { value: '2024', label: 'Graduated' },
+  { value: 'CSE', label: 'Specialization' },
 ];
 
 export default function Education() {
@@ -26,7 +26,7 @@ export default function Education() {
       <div className="max-w-6xl mx-auto px-6">
         <SectionHeader
           label="Education"
-          title="Academic Foundation"
+          title="Academic Journey"
           subtitle="Building the engineering fundamentals that power my network engineering career."
         />
 
